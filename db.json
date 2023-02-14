@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "dfdfdfdf",
+      "middleName": "",
+      "lastName": "",
+      "dob": "2023-02-13T18:30:00.000Z",
+      "doj": "",
+      "dor": "",
+      "designation": "Assistant Consultant",
+      "role": "E",
+      "email": "",
+      "id": 1
+    },
+    {
+      "firstName": "ramesh",
+      "middleName": "kumar",
+      "lastName": "rajesh",
+      "dob": "2023-02-14T18:30:00.000Z",
+      "doj": "2222-01-22",
+      "dor": "2222-02-02",
+      "designation": "Assistant Consultant",
+      "role": "E",
+      "email": "re@gmail.com",
+      "id": 8
+    }
+  ]
+}
